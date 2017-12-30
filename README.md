@@ -1,3 +1,3 @@
 # Programmable interval timer
 
-Routines, scheduling, reminders, and customisation.
+Routines, scheduling, reminders, customisation.
